@@ -9,5 +9,3 @@ print("hello world ")
   "Inside 2"
   
   "Inside 3"
-  
-  "Inside 4"
