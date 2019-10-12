@@ -5,5 +5,3 @@ sdfkj
 print("hello world ")
 
   "Inside 1"
-  
-  "Inside 2"
